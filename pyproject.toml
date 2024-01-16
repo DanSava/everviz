@@ -47,6 +47,7 @@ test = [
     "sphinx-build"
 ]
 style = [
+    "ruff",
     "pylint",
     "black"
 ]
